@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ Remplace par le nom de ton bot ]";
+const doNotDelete = "[🌹 𝐈𝐒𝐀𝐆𝐈 𝐁𝐎𝐓 🌹 ]";
 
 module.exports = {
         config: {
@@ -29,7 +29,7 @@ module.exports = {
 
         langs: {
                 en: {
-                        helpList: "╭─ Remplace par le nom de ton bot ─╮\n%1\n╰─ Total: %2 commandes ─╯\nUtilisez %3help <cmd> pour les détails de la commande",
+                        helpList: "╭─🌹𝐈𝐒𝐀𝐆𝐈 𝐁𝐎𝐓🌹─╮\n%1\n╰─ Total: %2 commandes ─╯\nUtilisez %3help <cmd> pour les détails de la commande",
                         commandNotFound: "La commande \"%1\" n'existe pas",
                         getInfoCommand: "╭─ INFOS COMMANDE ─╮"
                                 + "\n│ Nom: %1"
