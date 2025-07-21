@@ -1,8 +1,8 @@
  module.exports = {
   config: {
-    name: "nome",
+    name: "promote",
     version: "1.1",
-    author: "isagi",
+    author: "Evariste ᎬᏉᎯᏒᎨᏕᎿᎬ",
     description: "Accorde la couronne d'administration à un élu.",
     usage: "[promote @mention ou uid]",
     cooldown: 30,
@@ -74,4 +74,4 @@
       );
     }
   }
-};
+}
