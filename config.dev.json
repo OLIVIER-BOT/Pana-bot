@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "𝑰𝑺𝑨𝑮𝑰 𝑩𝑶𝑻 🤔😷",
+	"nickNameBot": "𝑷𝑨𝑵𝑨 𝑩𝑶𝑻 🤔😷",
 	"prefix": "†",
 	"adminOnly": {
 		"enable": false,
@@ -20,7 +20,7 @@
 	},
 	"adminBot": [
 		"61574651347771",
-		""
+		"61579260081943"
 	],
 	"whiteListMode": {
 		"enable": false,
